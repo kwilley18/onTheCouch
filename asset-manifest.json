@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/onthecouch/static/css/main.8640b3ba.chunk.css",
+    "main.js": "/onthecouch/static/js/main.7cc8ee3d.chunk.js",
+    "main.js.map": "/onthecouch/static/js/main.7cc8ee3d.chunk.js.map",
+    "runtime-main.js": "/onthecouch/static/js/runtime-main.d455dc9b.js",
+    "runtime-main.js.map": "/onthecouch/static/js/runtime-main.d455dc9b.js.map",
+    "static/css/2.f2512455.chunk.css": "/onthecouch/static/css/2.f2512455.chunk.css",
+    "static/js/2.a7590d28.chunk.js": "/onthecouch/static/js/2.a7590d28.chunk.js",
+    "static/js/2.a7590d28.chunk.js.map": "/onthecouch/static/js/2.a7590d28.chunk.js.map",
+    "index.html": "/onthecouch/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/onthecouch/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.8640b3ba.chunk.css.map": "/onthecouch/static/css/main.8640b3ba.chunk.css.map",
+    "static/js/2.a7590d28.chunk.js.LICENSE.txt": "/onthecouch/static/js/2.a7590d28.chunk.js.LICENSE.txt",
+    "static/media/couch.ea10492d.jpg": "/onthecouch/static/media/couch.ea10492d.jpg",
+    "static/media/App.css": "/onthecouch/static/media/genresBackground.480254cc.jpg",
+    "static/media/placeHolder.a45bcd4c.jpg": "/onthecouch/static/media/placeHolder.a45bcd4c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d455dc9b.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.a7590d28.chunk.js",
+    "static/css/main.8640b3ba.chunk.css",
+    "static/js/main.7cc8ee3d.chunk.js"
+  ]
+}
